@@ -8,7 +8,7 @@
 
 `codon_translation.ipynb` model translates DNA sequences into protein sequences using a Transformer model, mimicking how biological systems synthesize proteins.
 
-##K-Means Clustering in Biochemical Agriculture
+## K-Means Clustering in Biochemical Agriculture
 
 `genetic_similarities.ipynb` clustering approach groups DNA sequences based on their similarity, helping to detect genetic variations or classify plants with similar biochemical traits.
 
@@ -18,5 +18,13 @@
 
 ## Classifying Plant Diseases Using Biochemical Markers
 `disease_type_knn.ipynb` classifies  whether a plant is healthy, infected with a fungal disease, or infected with a bacterial disease based on biochemical markers (Leaf Chlorophyll Content (SPAD units), Soil pH, Nitrogen Content (mg/kg), Enzyme Activity (μmol/g/min), Leaf Moisture (%).
+
+## AI in Precision Farming with Biochemical Data Using a Simple Neural Network
+
+`crop_health_nn.ipynb`  collect biochemical data such as soil pH, nitrogen levels, moisture, and enzyme activity, and then analyze these features and predict whether crops are healthy or stressed.
+
+## A CNN based implantaion detection using aerial images
+
+`Lab_session_CNN_Aerial.ipynb` uses CNN to detect agricultural imlantations on aerial images
 
 
